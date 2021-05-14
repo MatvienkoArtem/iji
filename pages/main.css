@@ -1,0 +1,124 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.background{
+    background-image: url('images/back.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 4100px;
+    opacity: 0.9;
+}
+h1{
+    padding:0;
+    margin:0;
+}
+.about{
+    color: #fff;
+    font-size: 55px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+.about_text{
+    color: #fff;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.clinica{
+    color: #fff;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    padding-top: 38px;
+    padding-left: 30px;
+    cursor: pointer;
+    text-transform: uppercase;
+    width: 900px;
+}
+
+.clinica:hover{
+   opacity: 0.8;
+   transition: 0.5s;
+}
+.about_text:hover{
+    transform: scale(0.92);
+    transition: 2.2s ease;
+}
+
+.background1{
+    background-image: url('images/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.9;
+    height: 2350px;
+}
+
+.about_clinica{
+    color: #fff;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.about_clinica:hover{
+    transform: scale(0.95);
+    transition: 2.2s ease;
+}
+
+.background2{
+    background-image: url('images/bg1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1400px;
+    opacity: 0.9;
+}
+
+.about_background2{
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.about_background2:hover{
+    transform: scale(0.95);
+    transition: 2.2s ease;
+}
+
+.background3{
+    background-image: url('images/rd.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+}
+
+.about_bg3{
+    color: #fff;
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.about_bg3:hover{
+    transform: scale(0.95);
+    transition: 2.2s ease;
+}
